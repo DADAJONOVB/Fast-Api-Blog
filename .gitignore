@@ -1,0 +1,13 @@
+.DS_Store
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+dist
+db.sqlite3
+
+venv
+env
+__pycache__/
+*/__pycache__/
